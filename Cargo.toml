@@ -4,6 +4,8 @@ version = "0.1.0"
 license = "MIT"
 authors = ["Linus Unnebäck <linus@folkdatorn.se>"]
 description = "Rust implementation of the psuedo random number generator xorshift128+"
+documentation = "https://docs.rs/xorshift128plus"
+repository = "https://github.com/LinusU/rs-xorshift128plus"
 
 [dev-dependencies]
 rand = "0.3.15"
