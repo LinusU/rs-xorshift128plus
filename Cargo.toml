@@ -1,0 +1,9 @@
+[package]
+name = "xorshift128plus"
+version = "0.0.0"
+license = "MIT"
+authors = ["Linus Unnebäck <linus@folkdatorn.se>"]
+description = "Rust implementation of the psuedo random number generator xorshift128+"
+
+[dev-dependencies]
+rand = "0.3.15"
